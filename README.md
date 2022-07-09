@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyang Bhatt</h1>
 <h3 align="center">End-To-End Machine learning Projects Using Python</h3>
 
-- 👨‍💻 All of my projects are available at https://www.youtube.com/c/priyangbhatt
+- 👨‍💻 All Listed Projects are available at https://www.youtube.com/c/priyangbhatt
 
 - 📝 I regularly write articles on End-to-End Machine Learning Projects & Data Anlystics Using Python
 
