@@ -3,6 +3,20 @@
 
 - 👨‍💻 All Listed Projects are available at https://www.youtube.com/c/priyangbhatt
 
+- End-To-End Projects are:
+
+1. Addition of Two Numbers Using Machine Learning
+2. Health Insurance Cost Prediction Using Machine Learning
+3. Heart Disease Prediction Using Machine Learning
+4. Bank Customer Chrun Prediction Using Machine Learing
+5. Graduate Admission Prediction Using Machine Learning
+6. Pizza Price Prediction Using Machine Learning
+7. Wine Quality Prediction Using Machine Learning
+8. Car Purchase Amount Prediction Using Machine Learning
+9. Diabetes Prediction Using Machine Learning
+10. Mushroom Classification Using Machine Learning
+11. Customer Segmentation using K-Means Clustering
+
 - 📝 I regularly write articles on End-to-End Machine Learning Projects & Data Anlystics Using Python
 
 - 💬 Ask me about **Machine Learning using Python,Android**
