@@ -8,7 +8,7 @@ End-To-End Projects are:
 1. Addition of Two Numbers Using Machine Learning
 2. Health Insurance Cost Prediction Using Machine Learning
 3. Heart Disease Prediction Using Machine Learning
-4. Bank Customer Chrun Prediction Using Machine Learing
+4. Bank Customer Churn Prediction Using Machine Learning
 5. Graduate Admission Prediction Using Machine Learning
 6. Pizza Price Prediction Using Machine Learning
 7. Wine Quality Prediction Using Machine Learning
