@@ -16,6 +16,7 @@ End-To-End Projects are:
 9. Diabetes Prediction Using Machine Learning
 10. Mushroom Classification Using Machine Learning
 11. Customer Segmentation using K-Means Clustering
+12. Crime Rate Prediction using Facebook Prophet (Time Series Forecasting)
 13. Credit Card Fraud Detection Using Machine Learning
 14. Loan Status Prediction Using Machine Learning
 
