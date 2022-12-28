@@ -19,6 +19,7 @@ End-To-End Projects are:
 12. Crime Rate Prediction using Facebook Prophet (Time Series Forecasting)
 13. Credit Card Fraud Detection Using Machine Learning
 14. Loan Status Prediction Using Machine Learning
+15. Car Price Prediction Using Machine Learning
 
 - 📝 I regularly write articles on End-to-End Machine Learning Projects & Data Anlystics Using Python
 
