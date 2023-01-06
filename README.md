@@ -3,7 +3,7 @@
 
 - 👨‍💻 All Listed Projects are available at https://www.youtube.com/c/priyangbhatt
 
-End-To-End Projects are:
+End-To-End Machine Learning Projects are:
 
 1. Addition of Two Numbers Using Machine Learning
 2. Health Insurance Cost Prediction Using Machine Learning
