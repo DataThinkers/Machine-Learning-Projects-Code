@@ -20,6 +20,8 @@ End-To-End Machine Learning Projects are:
 13. Credit Card Fraud Detection Using Machine Learning
 14. Loan Status Prediction Using Machine Learning
 15. Car Price Prediction Using Machine Learning
+16. Campus Placement Prediction Using Machine Learning
+17. SONAR Rock Vs. Mine Prediction Using Batch,Online Learning, Model and Instance based learning 
 
 - 📝 I regularly write articles on End-to-End Machine Learning Projects & Data Anlystics Using Python
 
