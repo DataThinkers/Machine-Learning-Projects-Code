@@ -22,7 +22,8 @@ End-To-End Machine Learning Projects are:
 15. Car Price Prediction Using Machine Learning
 16. Campus Placement Prediction Using Machine Learning
 17. SONAR Rock Vs. Mine Prediction Using Batch,Online Learning, Model and Instance based learning
-18. Human Activity Recognition with Smartphones 
+18. Human Activity Recognition with Smartphones
+19. Bigmart Sales Predicton Using Machine Learning
 
 - 📝 I regularly write articles on End-to-End Machine Learning Projects & Data Anlystics Using Python
 
